@@ -1,0 +1,41 @@
+p{
+    font-size: 20px;
+    padding-bottom:10px;
+}
+
+body{
+    background-color: #f4eeff;
+    margin: auto;
+}
+
+
+.Text{
+    background-color: #dcd6f7;
+    padding: 0;
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    background-color:#a6b1e1 ;
+
+
+}
+h2{
+    background-color: darkgray;
+}
+
+#headshot{
+    width: 500px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    padding: 20px;
+    border: solid;
+    border-width: 20px;
+    border-color:  #424874;
+}
+
